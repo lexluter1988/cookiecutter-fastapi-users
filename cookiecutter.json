@@ -1,0 +1,7 @@
+{
+  "project_name": "My Awesome Project",
+  "author_name": "Your Name",
+  "description": "A short description of the project",
+  "version": "0.1.0",
+  "open_source_license": ["MIT", "GPLv3", "Apache2", "Not open source"]
+}
